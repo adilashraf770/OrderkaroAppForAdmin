@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".SignUpActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:src="@drawable/logo"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:contentDescription="@string/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:fontFamily="@font/lato_bold"
+        android:text="@string/waves_of_food"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_30ssp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/_8sdp"
+        android:text="@string/sign_up_here_for_your_n_admin_dashboard"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/_18ssp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/_10sdp"
+        >
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_57sdp"
+            android:layout_marginVertical="@dimen/_3sdp"
+            android:background="@drawable/edittextshape"
+            android:drawableStart="@drawable/usernew"
+            android:drawablePadding="@dimen/_10sdp"
+            android:ems="10"
+            android:hint="@string/name_of_owner"
+            android:inputType="textPersonName"
+            android:paddingStart="@dimen/_10sdp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/hintColor"
+            android:textSize="@dimen/_12sdp"
+            tools:ignore="TextSizeCheck" />
+
+        <EditText
+            android:id="@+id/editNameOfRestaurant"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_57sdp"
+            android:layout_marginVertical="@dimen/_3sdp"
+            android:autofillHints="username"
+            android:background="@drawable/edittextshape"
+            android:drawableStart="@drawable/home"
+            android:drawablePadding="@dimen/_10sdp"
+            android:ems="10"
+            android:hint="@string/name_of_restaurant"
+            android:inputType="textPersonName"
+            android:paddingStart="@dimen/_10sdp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/hintColor"
+            android:textSize="@dimen/_12sdp"
+            tools:ignore="TextSizeCheck" />
+
+        <EditText
+            android:id="@+id/editEmail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_57sdp"
+            android:layout_marginVertical="@dimen/_3sdp"
+            android:background="@drawable/edittextshape"
+            android:drawableStart="@drawable/mail"
+            android:drawablePadding="@dimen/_10sdp"
+            android:ems="10"
+            android:hint="@string/email_or_phone_number"
+            android:inputType="textEmailAddress"
+            android:paddingStart="@dimen/_10sdp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/hintColor"
+            android:textSize="@dimen/_12sdp"
+            tools:ignore="TextSizeCheck" />
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_57sdp"
+            android:layout_marginVertical="@dimen/_3sdp"
+            android:autofillHints="password"
+            android:background="@drawable/edittextshape"
+            android:drawableStart="@drawable/lock"
+            android:drawablePadding="@dimen/_10sdp"
+            android:ems="10"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:paddingStart="@dimen/_10sdp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/hintColor"
+            android:textSize="@dimen/_12sdp"
+            tools:ignore="TextSizeCheck" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:fontFamily="@font/lato_regular"
+        android:text="@string/or"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/_3sdp"
+        android:gravity="center"
+        >
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnGoogle"
+            android:layout_width="@dimen/_230sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_marginHorizontal="@dimen/_5sdp"
+            android:layout_marginVertical="@dimen/_4sdp"
+            android:background="@drawable/edittextshape"
+            android:drawableStart="@drawable/google"
+            android:fontFamily="@font/lato_bold"
+            android:paddingHorizontal="@dimen/_10sdp"
+            android:text="@string/continue_with_google"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_10sdp"
+            tools:ignore="TextSizeCheck" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSignUp"
+        android:layout_width="@dimen/_140sdp"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@drawable/greenbuttonshape"
+        android:text="@string/sign_up"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_18ssp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        />
+
+    <TextView
+        android:id="@+id/alreadyHaveAnAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/already_have_an_account"
+        android:textAlignment="center"
+        android:fontFamily="@font/lato_regular"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/_10ssp"
+        />
+
+</LinearLayout>
+</ScrollView>

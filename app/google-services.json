@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309899331843",
+    "firebase_url": "https://orderkroapp-b3b4e-default-rtdb.firebaseio.com",
+    "project_id": "orderkroapp-b3b4e",
+    "storage_bucket": "orderkroapp-b3b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309899331843:android:00a998e3722f638cf6c136",
+        "android_client_info": {
+          "package_name": "com.adilashraf.orderkroadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309899331843-mnm93romsrdepb53t0p71bo9ge5kkrtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adilashraf.orderkroadminapp",
+            "certificate_hash": "40c8fa8d78428d271931b953107d8e0f12410909"
+          }
+        },
+        {
+          "client_id": "309899331843-b4audocqk2m0suo1mhjejbee0haa4101.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTqBx3D-eZ0V7D5i9eM9ksEqY-m9WfHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309899331843-b4audocqk2m0suo1mhjejbee0haa4101.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
