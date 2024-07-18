@@ -1,6 +1,6 @@
 # Order Karo - Food Ordering App with Admin Panel
 
-<img src="https://drive.google.com/uc?export=view&id=YOUR_BANNER_IMAGE_ID" alt="Order Karo" width="800" height="200">
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721302179/github/orderkaroappadmin2.png" alt="Order Karo"   height="500">
 
 ## Description
 Order Karo is a native Android application meticulously crafted using Kotlin, designed to provide a seamless food ordering experience with an integrated admin panel. Central to its functionality is Firebase authentication, enabling robust sign-in and sign-up processes along with a welcoming splash screen. The app features capabilities for both users and admins, offering a comprehensive solution for food ordering and management.
@@ -39,7 +39,7 @@ All data, including user details, admin information, orders, and earnings, are s
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/order-karo.git
+    git clone  https://github.com/adilashraf770/OrderkaroAppForAdmin.git
     ```
 2. Open the project in Android Studio.
 3. Build the project to download all dependencies.
@@ -62,7 +62,7 @@ All data, including user details, admin information, orders, and earnings, are s
 
 ## Authentication
 
-<img src="https://drive.google.com/uc?export=view&id=YOUR_AUTHENTICATION_BANNER_IMAGE_ID" alt="Authentication Banner" width="800" height="200">
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" height="500">
 
 - The app uses Firebase Authentication for sign in, sign up, and splash screen.
 - Ensure the Firebase Authentication methods are enabled in the Firebase Console.
@@ -107,8 +107,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Android Developers](https://developer.android.com/) for the documentation and tools.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [email@example.com].
+If you have any questions or suggestions, feel free to contact me at [smadal770@gmail.com].
 
 ## Download
 You can download the APK file from the following link:
-[Order Karo APK](https://drive.google.com/file/d/YOUR_APK_FILE_ID/view?usp=sharing)
+[Order Karo APK](https://drive.google.com/file/d/1JoKfYkWasPDExaioGXVzPF70-qSpK47-/view?usp=sharing)
