@@ -1,6 +1,6 @@
 # Order Karo - Food Ordering App with Admin Panel
 
-<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721302179/github/orderkaroappadmin2.png" alt="Order Karo"   height="500">
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721302179/github/orderkaroappadmin2.png" alt="Order Karo"  >
 
 ## Description
 Order Karo is a native Android application meticulously crafted using Kotlin, designed to provide a seamless food ordering experience with an integrated admin panel. Central to its functionality is Firebase authentication, enabling robust sign-in and sign-up processes along with a welcoming splash screen. The app features capabilities for both users and admins, offering a comprehensive solution for food ordering and management.
@@ -62,7 +62,7 @@ All data, including user details, admin information, orders, and earnings, are s
 
 ## Authentication
 
-<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" height="500">
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" height="600" >
 
 - The app uses Firebase Authentication for sign in, sign up, and splash screen.
 - Ensure the Firebase Authentication methods are enabled in the Firebase Console.
