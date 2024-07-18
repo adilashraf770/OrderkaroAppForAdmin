@@ -1,8 +1,8 @@
 <resources>
-    <string name="default_web_client_id">309899331843-b4audocqk2m0suo1mhjejbee0haa4101.apps.googleusercontent.com</string>
-    <string name="facebook_app_id">3379520719011713</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
-    <string name="facebook_client_token">cc809d834d6ab5cc62dd99bec19b2296</string>
+    <string name="default_web_client_id">place your client id</string>
+    <string name="facebook_app_id">place your facebook app id</string>
+    <string name="fb_login_protocol_scheme">place your facebook protocol scheme</string>
+    <string name="facebook_client_token"> place your facebook client id</string>
 
     <string name="app_name">Order Karo Admin</string>
     <string name="waves_of_food">Waves Of Food</string>
