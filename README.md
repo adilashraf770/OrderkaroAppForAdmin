@@ -67,7 +67,7 @@ All data, including user details, admin information, orders, and earnings, are s
 
 ## Authentication
 
-<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" >
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721302534/github/orderkaroadminapp1.png" alt="Authentication Banner" >
 
 - The app uses Firebase Authentication for sign in, sign up, and splash screen.
 - Ensure the Firebase Authentication methods are enabled in the Firebase Console.
