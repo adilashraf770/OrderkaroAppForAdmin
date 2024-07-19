@@ -1,4 +1,4 @@
-# Order Karo - Food Ordering App with Admin Panel
+# Order Karo - Admin Dashboard
 
 <img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721302179/github/orderkaroappadmin2.png" alt="Order Karo"  >
 
