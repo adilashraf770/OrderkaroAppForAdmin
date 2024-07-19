@@ -67,7 +67,7 @@ All data, including user details, admin information, orders, and earnings, are s
 
 ## Authentication
 
-<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" height="600" >
+<img src="https://res.cloudinary.com/dc1uxxvox/image/upload/v1721299971/github/orderkarouserapp3.png" alt="Authentication Banner" >
 
 - The app uses Firebase Authentication for sign in, sign up, and splash screen.
 - Ensure the Firebase Authentication methods are enabled in the Firebase Console.
@@ -116,4 +116,4 @@ If you have any questions or suggestions, feel free to contact me at [smadal770@
 
 ## Download
 You can download the APK file from the following link:
-[Order Karo APK](https://drive.google.com/file/d/1JoKfYkWasPDExaioGXVzPF70-qSpK47-/view?usp=sharing)
+[Order Karo APK](https://drive.google.com/file/d/1PPcjsF2sloICovu7T7jR5Xn2zG6XUO13/view?usp=sharing)
